@@ -18,5 +18,10 @@
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
     "tailwindcss": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   }
 }
